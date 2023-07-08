@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header starts */
+
+.btn{
+    /* margin: 20px 10px 0px 1100px; */
+    padding: 10px;
+    background-color: orangered;
+    font-weight: bold;
+    border: 0;
+    border-radius: 5px;
+}
+.main-container{
+    display:flex;
+    justify-content:end;
+    border: 1px solid red;
+    padding: 200px;
+    text-align: end;
+    background-image: url('../images/banner/banner3.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    
+}
+.container-heading{
+    padding: 10px;
+    margin-left:145px;
+    height: 150px;
+    width: 300px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    color: white;
+}
+.container-pera{
+    margin-bottom: 15px;
+    font-size: 16px;
+    padding: 5px;
+    color: wheat;
+}
